@@ -4,7 +4,7 @@ const QRcode = () => {
   return (
     <div>
       <div className="qr-container">
-        <img src="src/images/image-qr-code.png" />
+        <img src="src/images/image-qr-code.png" alt="qr-code" />
         <div className="production-1">
           <p>Improve your front-end skills by building projects</p>
         </div>
