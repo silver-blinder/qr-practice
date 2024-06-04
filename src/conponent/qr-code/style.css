@@ -1,0 +1,35 @@
+.qr-container {
+  background-color: white;
+  width: 280px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  gap: 1rem;
+  padding: 1rem 0;
+  border-radius: 1rem;
+  height: 400px;
+}
+
+p {
+  padding: 0 25px;
+  line-height: 1.2;
+  margin: 0;
+}
+
+.production-1 {
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 16px;
+}
+
+.production-2 {
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  color: hsl(220, 15%, 55%);
+  font-size: 13px;
+}
